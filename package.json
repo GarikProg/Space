@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/GarikProg/Svelte_first#readme",
   "engines": {
-    "node": "14.x"
+    "node": "14.x", 
+    "rollup": "^2.32.1"
   }
 }
